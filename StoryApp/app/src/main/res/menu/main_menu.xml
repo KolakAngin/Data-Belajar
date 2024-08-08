@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/map"
+        android:id="@+id/refresh"
+        android:icon="@drawable/baseline_refresh_24"
+        app:showAsAction="ifRoom"/>
+    />
+    <item android:title="@string/map"
+        android:id="@+id/go_to_map"
+        android:icon="@drawable/baseline_map_24"
+        app:showAsAction="ifRoom"/>
+    />
+    <item android:title="@string/log_out"
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="ifRoom"/>
+</menu>

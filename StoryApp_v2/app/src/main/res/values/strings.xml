@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_login_page">Hi, Selamat Datang di Story App\n</string>
+    <string name="message_login_page">Masuk Aplikasi</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Belum punya Akun?, daftar disini !</string>
+    <string name="title_signup_page">Register Akun\n</string>
+    <string name="name">Nama\n</string>
+    <string name="signup">register</string>
+    <string name="loading_asset">Memuat...</string>
+    <string name="item_name">Nama Kamu</string>
+    <string name="dummy_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy</string>
+    <string name="log_out">Log Out</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="caption">Caption</string>
+    <string name="empty_image_warning">Error ada yang salah</string>
+    <string name="wellcome">Selamat datang, %s</string>
+
+</resources>
